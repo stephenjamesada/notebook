@@ -1,3 +1,7 @@
 [2026-09-09 04:32:10 PM] Just created a Bash script for note automation in the notebook
 
 [2026-09-09 04:47:00 PM] Finished creating top-level notebook structure
+
+[2026-09-09 08:44:34 PM] Finished the notebook README file (for now)
+
+[2026-09-09 08:45:10 PM] Focusing on adding supplemental resources for notebook topics
