@@ -1,0 +1,7 @@
+% notebook
+
+# Create a new note in the notebook
+new-note.sh <name>
+
+# Create a new zettelkasten entry
+new-zettel.sh <name>
