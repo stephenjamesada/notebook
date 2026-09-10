@@ -8,9 +8,11 @@ The structure is intentionally minimal for both better functionality and scannin
 
 ## Directories
 
-- `bash`
-- `c`
-- `linux`
-- `git`
-- `jrnl`
-- `resources` 
+- `bash` -> Bash knowledge
+- `c` -> C knowledge
+- `linux` -> Linux knowledge
+- `git` -> Git knowledge
+- `jrnl` -> Raw thoughts into journal.txt
+- `zettelkasten` -> Atomic notes
+- `resources` -> External reference material
+- `misc` -> Other tooling for this repository
