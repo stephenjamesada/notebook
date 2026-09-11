@@ -16,3 +16,7 @@
 
 - Man pages
 - GNU Info pages
+
+## Git
+
+- Scott Chacon, Ben Straub -- Pro Git (2nd Edition)
