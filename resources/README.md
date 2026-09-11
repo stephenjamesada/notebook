@@ -13,6 +13,7 @@
 
 - Drew Ristic -- OpenSSL Cookbook
 - GoalKicker.com -- Bash Notes for Professionals
+- William Shotts -- The Linux Command Line
 
 - Man pages
 - GNU Info pages
