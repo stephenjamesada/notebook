@@ -12,7 +12,7 @@
 ## Linux / Bash
 
 - Drew Ristic -- OpenSSL Cookbook
-- Bash Notes for Professionals -- GoalKicker.com
+- GoalKicker.com -- Bash Notes for Professionals
 
 - Man pages
 - GNU Info pages
