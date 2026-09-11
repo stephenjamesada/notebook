@@ -2,4 +2,4 @@
 
 NAME="${1:?"Usage: $0 <name>"}"
 
-touch "$(date +%F)-$NAME.md"
+touch "$(date +%Y%m%d)-$NAME.md"
