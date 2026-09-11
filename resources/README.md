@@ -10,5 +10,7 @@
 
 ## Linux
 
+- Drew Ristic -- OpenSSL Cookbook
+
 - Man pages
 - GNU Info pages
