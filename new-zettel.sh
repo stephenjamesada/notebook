@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-ID="$(openssl rand -hex 3)"
+ID="$(head -c 4 /dev/urandom | xxd -p)"
 DATE="$(date +%Y%m%d)"
 NAME="${1:?"Usage: $0 <name>"}"
 
