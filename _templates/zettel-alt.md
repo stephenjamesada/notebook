@@ -1,0 +1,7 @@
+# Idea
+
+<explanation>
+
+---
+
+## Links
