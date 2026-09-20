@@ -1,8 +1,7 @@
 # Notebook
 
 This is simply a notebook repository for taking notes from the command line, so no GUI applications are used.
-The only external application used is [jrnl](https://github.com/jrnl-org/jrnl), for faster journaling.
-Beyond that, documents are managed only with Git, and edited with Vim.
+Documents are managed only with Git, and edited with Vim.
 
 The structure is intentionally minimal for both better functionality and scanning, as well as making it more Linux-oriented.
 
@@ -16,3 +15,8 @@ The structure is intentionally minimal for both better functionality and scannin
 - `zettelkasten` -> Atomic notes
 - `resources` -> External reference material
 - `misc` -> Other tooling for this repository
+
+## External Applications
+
+- [https://github.com/jrnl-org/jrnl](jrnl) => Writes to `journal.txt`
+- [https://github.com/suraniharsh/kairos](kairos) => Writes to `todo.txt`
