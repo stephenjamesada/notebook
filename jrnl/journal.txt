@@ -16,3 +16,7 @@
 
 [2026-09-10 12:29:32 PM] Created misc directory in notebook, will create notebook.cheat (navi cheat file).
 It'll only have cheats for the repo scripts
+
+[2026-09-11 11:16:32 PM] starting to write my first notes in the notebook, but I'm hoping I could start the zettelkasten soon
+
+[2026-09-20 08:50:37 AM] Started using todo.txt with this new tool called Kairos, I like it so far
