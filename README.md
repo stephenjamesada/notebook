@@ -27,7 +27,11 @@ ______________________________________________________________________
 - [jrnl](https://github.com/jrnl-org/jrnl) => Writes to `journal.txt`
 - [kairos](https://github.com/suraniharsh/kairos) => Writes to `todo.txt`
 
----
+## Scripts
+
+- [new-note.sh](new-note.sh) => Builds a new note in a topic directory
+- [new-zettel.sh](new-zettel.sh) => Builds a new zettel in the zettelkasten directory
+- [doc-build.sh](doc-build.sh) => Formats and lints a markdown file, then checks links (mdformat, markdownlint, lychee)
 
 ## Study Schedule
 
