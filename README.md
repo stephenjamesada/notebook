@@ -35,8 +35,10 @@ ______________________________________________________________________
 
 ## Study Schedule
 
-1. Monday => Linux
-2. Tuesday => Bash
-3. Wednesday => C
-4. Thursday => Vim
-5. Friday => Git
+| Day of the Week | Topic |
+|-----------------|-------|
+| Monday          | Linux |
+| Tuesday         | Bash  |
+| Wednesday       | C     |
+| Thursday        | Vim   |
+| Friday          | Git   |
