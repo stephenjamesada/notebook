@@ -26,3 +26,13 @@ ______________________________________________________________________
 
 - [jrnl](https://github.com/jrnl-org/jrnl) => Writes to `journal.txt`
 - [kairos](https://github.com/suraniharsh/kairos) => Writes to `todo.txt`
+
+---
+
+## Study Schedule
+
+1. Monday => Linux
+2. Tuesday => Bash
+3. Wednesday => C
+4. Thursday => Vim
+5. Friday => Git
