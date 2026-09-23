@@ -1,7 +1,7 @@
 x 2026-09-21 2026-09-21 Helpdesk Associate interview with Linxup (refer to khal event) @google-meet due:2026-09-21
 x 2026-09-21 2026-09-21 Daily typing tests +typing @computer
 x 2026-09-21 2026-09-21 Daily job applications @computer
-(A) Daily job applications +career @computer due:2026-09-22
-(B) Daily typing tests +touch-typing @computer due:2026-09-22
-(A) Daily mock interview +career @computer @phone due:2026-09-22
+x 2026-09-22 2026-09-22 Daily job applications +career @computer due:2026-09-22
+x 2026-09-22 2026-09-22 Daily typing tests +touch-typing @computer due:2026-09-22
+x 2026-09-22 2026-09-22 Daily mock interview +career @computer @phone due:2026-09-22
 (C) Daily self-study (Tue - Bash) +knowledge @computer due:2026-09-22
