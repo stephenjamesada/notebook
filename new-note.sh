@@ -16,4 +16,5 @@ if [[ ! ${TOPICS[$TOPIC]+_} ]]; then
     exit 1
 fi
 
-touch "$TOPIC/$(date +%Y%m%d)-$NAME.md"
+FILE="$TOPIC/$(date +%Y%m%d)-$NAME.md"
+touch "$FILE"
