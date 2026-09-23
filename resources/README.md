@@ -12,8 +12,8 @@
 ## Linux / Bash
 
 - Drew Ristic -- OpenSSL Cookbook
-- GoalKicker.com -- Bash Notes for Professionals
 - William Shotts -- The Linux Command Line
+- Bash Reference Manual
 
 - Man pages
 - GNU Info pages
