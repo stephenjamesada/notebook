@@ -1,5 +1,10 @@
-# <topic> <title>
+# <topic>
 
-## Summary
+## <title>
 
-## Examples
+- Reading:
+- Current Chapter:
+
+---
+
+
