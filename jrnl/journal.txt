@@ -20,3 +20,5 @@ It'll only have cheats for the repo scripts
 [2026-09-11 11:16:32 PM] starting to write my first notes in the notebook, but I'm hoping I could start the zettelkasten soon
 
 [2026-09-20 08:50:37 AM] Started using todo.txt with this new tool called Kairos, I like it so far
+
+[2026-09-24 11:48:55 AM] Really starting to get a feel for the connectivity between my notebook tooling and the web of knowledge it's building; Definitely going to be consistent now
