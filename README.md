@@ -17,7 +17,6 @@ ______________________________________________________________________
 - `c` -> C knowledge
 - `linux` -> Linux knowledge
 - `git` -> Git knowledge
-- `jrnl` -> Raw thoughts into journal.txt
 - `zettelkasten` -> Atomic notes
 - `resources` -> External reference material
 - `misc` -> Other tooling for this repository
@@ -35,10 +34,14 @@ ______________________________________________________________________
 
 ## Study Schedule
 
-| Day of the Week | Topic |
-|-----------------|-------|
-| Monday          | Linux |
-| Tuesday         | Bash  |
-| Wednesday       | C     |
-| Thursday        | Vim   |
-| Friday          | Git   |
+| Day of the Week | Topic/Tasks |
+|-----------------|-------------|
+| Monday          | Linux       |
+| Tuesday         | Bash        |
+| Wednesday       | C           |
+| Thursday        | Vim         |
+| Friday          | Git         |
+| Saturday        | Build       |
+| Sunday          | Reflect     |
+
+> Weekends will be spent building what is learned from the notes and reflecting on what I learned from my projects.
