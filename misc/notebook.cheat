@@ -5,3 +5,6 @@ new-note.sh <name>
 
 # Create a new zettelkasten entry
 new-zettel.sh <name>
+
+# Format, link, and check links in a Markdown file
+doc-build.sh <file>
