@@ -18,3 +18,5 @@ fi
 
 FILE="$TOPIC/$(date +%Y%m%d)-$NAME.md"
 touch "$FILE"
+
+cat "_templates/note.md" > "$FILE"
