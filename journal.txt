@@ -28,3 +28,6 @@ Kairos makes writing into it and following the convention almost trivial
 
 [2026-09-24 12:02:57 PM] Just added a weekend portion to the study schedule.
 These build and reflect days should be able to actually enforce what I learn
+
+[2026-09-25 12:00:57 PM] I've been using Indeed for mock interviews; their Career Scout AI.
+It's rather lackluster and frequently gives vague questions, so I'm trying to find some new platforms that will actually give me a good mock interview to learn and grow from.
