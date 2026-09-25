@@ -1,0 +1,15 @@
+x 2026-09-21 2026-09-21 Helpdesk Associate interview with Linxup (refer to khal event) @google-meet due:2026-09-21
+x 2026-09-21 2026-09-21 Daily typing tests +touch-typing @computer
+x 2026-09-21 2026-09-21 Daily job applications @computer
+x 2026-09-22 2026-09-22 Daily job applications +career @computer due:2026-09-22
+x 2026-09-22 2026-09-22 Daily typing tests +touch-typing @computer due:2026-09-22
+x 2026-09-22 2026-09-22 Daily mock interview +career @computer @phone due:2026-09-22
+x 2026-09-22 2026-09-22 Daily self-study (Tue - Bash) +knowledge @computer due:2026-09-22
+x 2026-09-24 2026-09-24 Job applications +career @computer due:2026-09-24
+x 2026-09-24 2026-09-24 Mock interview +career @computer due:2026-09-24
+x 2026-09-24 2026-09-24 Leave one meaningful comment on a LinkedIn post +career @computer due:2026-09-24
+x 2026-09-24 2026-09-24 Self-study (Vim) +knowledge @computer due:2026-09-24
+x 2026-09-24 2026-09-24 Typing tests +touch-typing @computer due:2026-09-24
+x 2026-09-24 2026-09-24 Work out (Push) +fitness @home due:2026-09-24
+x 2026-09-24 2026-09-24 Read (Tao Te Ching) +reading @home due:2026-09-24
+x 2026-09-24 2026-09-24 Chores +house @home due:2026-09-24
