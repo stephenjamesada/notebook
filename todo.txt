@@ -10,3 +10,13 @@ x 2026-09-25 2026-09-24 Typing tests +touch-typing @computer due:2026-09-25
 x 2026-09-25 2026-09-24 Write out assessment email response for System1 for IT Support Specialist role +career @computer due:2026-09-25
 (D) 2026-09-24 Write out script for first YouTube video +youtube @computer
 (D) 2026-09-24 Record clips for first YouTube video +youtube @computer
+x 2026-09-27 2026-09-27 Job applications +career @computer
+x 2026-09-27 2026-09-27 Typing tests +touch-typing @computer
+x 2026-09-27 2026-09-27 2 mock interviews +career @computer
+x 2026-09-27 2026-09-27 Leave one meaningful comment on two LinkedIn posts +career +engagement @computer
+(A) 2026-09-27 Job applications +career @computer due:2026-09-28
+(A) 2026-09-27 Chores +house @home due:2026-09-28
+(B) 2026-09-27 Mock interviews +career @computer due:2026-09-28
+(B) 2026-09-27 Work out +fitness @home
+(B) 2026-09-27 Read +reading @home
+(C) 2026-09-27 Typing tests +touch-typing @computer due:2026-09-28
