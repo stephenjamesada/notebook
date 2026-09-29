@@ -45,3 +45,11 @@ ______________________________________________________________________
 | Sunday          | Reflect     |
 
 > Weekends will be spent building what is learned from the notes and reflecting on what I learned from my projects.
+
+## Navigation
+
+- [Linux](linux/README.md)
+- [Bash](bash/README.md)
+- [C](c/README.md)
+- [Git](git/README.md)
+- [Vim](vim/README.md)
